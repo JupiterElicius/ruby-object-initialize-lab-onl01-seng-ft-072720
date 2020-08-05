@@ -4,5 +4,6 @@ def initialize(name)
   @breed = "Mutt"
   
   attr_accessor :name
+  attr_accessor :breed
 end
 end
